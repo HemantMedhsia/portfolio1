@@ -6,7 +6,7 @@ import Aradya from "../../Assets/Projects/Aradhya.png";
 import School from "../../Assets/Projects/School ERP.jpeg";
 import Employee from "../../Assets/Projects/Employee.png";
 import Dollar from "../../Assets/Projects/Dollar.jpeg";
-import Pass from "../../Assets/Projects/passManagement.jpg";
+import Pass from "../../Assets/Projects/pass.jpg";
 
 function Projects() {
   return (
