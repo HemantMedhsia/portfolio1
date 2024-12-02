@@ -27,6 +27,17 @@ function Projects() {
             <ProjectCard
               imgPath={Aradya}
               isBlog={false}
+              title="Efficient Event Solutions: Digital Pass Management for VIPs and Attendees"
+              description="I developed a high-performance digital pass management system for a two-day event at Rudraksha Convention Centre, Varanasi, attended by 3000+ VIPs, dignitaries, and global leaders. The system featured online and offline pass issuance, seamless entry verification, and WhatsApp integration for smooth access. This project showcases my ability to create scalable and secure digital solutions for large-scale events, addressing challenges like VIP data security and crowd management."
+              ghLink="https://github.com/HemantMedhsia/Pass_management"
+              demoLink="https://mahasamagam.org/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Aradya}
+              isBlog={false}
               title="Aradhya Technologies"
               description="I created my company's website using the MERN stack, featuring an admin panel for managing content. The admin panel allows seamless blog uploads and includes a certificate verification system to validate issued certificates. This project highlights my expertise in building dynamic and functional web applications with robust admin capabilities."
               ghLink="https://github.com/HemantMedhsia/Aradhya_Tech_Solutions"
