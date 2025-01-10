@@ -74,6 +74,16 @@ function Projects() {
               demoLink="https://play.google.com/store/apps/details?id=com.starsky.dollarwallpaper&hl=en"
             />
           </Col>
+                <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Dollar}
+              isBlog={false}
+              title="Glow Quick"
+              description="Glow Quick is a modern, user-centric digital solution designed to enhance customer experience and streamline business operations by eliminating long waiting queues. This project is tailored for businesses like barber shops, salons, and small service providers, offering an efficient token management system with real-time updates."
+              ghLink="https://github.com/HemantMedhsia/WallpaperBackend"
+              demoLink="glowquick.misterhemant.tech"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
